@@ -2,6 +2,10 @@
 
 Google Colab Link : https://colab.research.google.com/drive/1k26JKuMaqPuXIkvxjkereMkdcL1GcrA0?usp=sharing
 
+-> We predicted whether a person can buy a new car released in the market based on their age and estimated salary .
+
+Dataset : Social_Network_Ads
+
 # STEPS IN SVM
 
 -> Importing the libraries
